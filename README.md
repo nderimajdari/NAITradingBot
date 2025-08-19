@@ -65,6 +65,7 @@ python main.py
 Example trade log:
 
 Buy order executed at 4293.39 USDT | 0.0023 ETH | Total: 9.87 USDT
+
 Sell order executed at 4294.70 USDT | 0.0023 ETH | Total: 9.87 USDT
 
 📊 Example Results (Mainnet Test – ETH/USDT, 12 Aug 2025)
