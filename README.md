@@ -97,3 +97,9 @@ Worst trade: -0.040876 USDT
 This project is for educational and research purposes only.
 Trading cryptocurrencies involves significant risk. The authors/contributors are not responsible for any financial losses.
 Use at your own risk.
+
+
+## Authors
+
+- [@octokatherine](https://github.com/nderimajdari)
+
