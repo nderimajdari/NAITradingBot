@@ -64,9 +64,8 @@ python main.py
 
 Example trade log:
 
-Buy order executed at 4293.39 USDT | 0.0023 ETH | Total: 9.87 USDT
-
-Sell order executed at 4294.70 USDT | 0.0023 ETH | Total: 9.87 USDT
+Buy order executed at Price 4395.81 USDT | 0.0022 ETH | Total: 9.67 USDT | 2025-08-12 16:12:38
+Sell order executed at Price 4405.34 USDT | 0.0022 ETH | Total: 9.68 USDT | 2025-08-12 16:28:03
 
 📊 Example Results (Mainnet Test – ETH/USDT, 12 Aug 2025)
 
@@ -97,11 +96,3 @@ Worst trade: -0.040876 USDT
 This project is for educational and research purposes only.
 Trading cryptocurrencies involves significant risk. The authors/contributors are not responsible for any financial losses.
 Use at your own risk.
-
-🙏 Acknowledgments
-
-Binance API team for documentation & Testnet support.
-
-TensorFlow & DEAP communities.
-
-Researchers and developers contributing to algorithmic trading.
