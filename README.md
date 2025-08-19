@@ -101,5 +101,5 @@ Use at your own risk.
 
 ## Authors
 
-- [@octokatherine](https://github.com/nderimajdari)
+- [@nderimajdari](https://github.com/nderimajdari)
 
