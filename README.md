@@ -37,23 +37,27 @@ Create a new API Key & Secret from Binance API Management.
 
 Enable Spot & Margin Trading.
 
-Do NOT enable withdrawals.
+Do NOT enable withdrawals. 
 
-(Optional) Restrict API keys to your server IP for extra security.
-
-Add your keys in a .env file:
-
-API_KEY=your_api_key_here
-API_SECRET=your_api_secret_here
-
-
-Select environment:
+Change your keys in this code part 
 
 # For Testnet
-client = Client(API_KEY, API_SECRET, testnet=True)
+```Python
+# Binance Testnet API keys
+api_key = 'XXXXX'
+api_secret = 'XXXXX'
+
+client = Client(api_key, api_secret, testnet=True)
+```
 
 # For Mainnet
-client = Client(API_KEY, API_SECRET)
+```Python
+# Binance Mainnet API keys
+api_key = 'XXXXX'
+api_secret = 'XXXXX'
+
+client = Client(api_key, api_secret)
+```
 
 ▶️ Usage
 
