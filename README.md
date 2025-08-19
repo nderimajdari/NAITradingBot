@@ -1,4 +1,4 @@
-NAITradingBot
+# **NAITradingBot**
 
 NAITradingBot is an automated cryptocurrency trading agent designed to interact with the Binance API and execute trades based on advanced machine learning strategies, including LSTM with attention mechanisms and multiple technical indicators (RSI, MACD, EMA, SMA, breakout/breakdown logic).
 
