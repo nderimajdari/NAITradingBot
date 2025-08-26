@@ -29,7 +29,21 @@ Binance API
 
 Required libraries:
 
-pip install python-binance pandas numpy tensorflow deap matplotlib
+```Python
+pip install numpy
+pip install pandas
+pip install tensorflow
+pip install keras
+pip install nest-asyncio
+pip install requests
+```
+
+Specific version libraries:
+
+```Python
+pip install python-binance==1.0.19
+pip install websockets==12.0
+```
 
 ⚙️ Configuration
 
