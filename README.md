@@ -47,12 +47,6 @@ pip install websockets==12.0
 
 ⚙️ Configuration
 
-Create a new API Key & Secret from Binance API Management.
-
-Enable Spot & Margin Trading.
-
-Do NOT enable withdrawals. 
-
 Change your keys in this code part 
 
 # For Testnet
@@ -63,6 +57,12 @@ api_secret = 'XXXXX'
 
 client = Client(api_key, api_secret, testnet=True)
 ```
+
+Create a new API Key & Secret from Binance API Management.
+
+Enable Spot & Margin Trading.
+
+Do NOT enable withdrawals. 
 
 # For Mainnet
 ```Python
