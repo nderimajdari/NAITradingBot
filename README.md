@@ -38,7 +38,7 @@ pip install nest-asyncio
 pip install requests
 ```
 
-Specific version libraries:
+Stable version libraries:
 
 ```Python
 pip install python-binance==1.0.19
