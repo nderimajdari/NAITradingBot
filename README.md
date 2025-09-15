@@ -1,24 +1,21 @@
 # **NAITradingBot**
 
-**NAITradingBot - Neural Artificial Intelligence Trading Bot** is an automated cryptocurrency trading agent designed to interact with the Binance API and execute trades based on advanced machine learning strategies, including LSTM with attention mechanisms and multiple technical indicators (RSI, MACD, EMA, SMA, breakout/breakdown logic).
+**NAITradingBot - Neural Artificial Intelligence Trading Bot** is an automated cryptocurrency trading agent that connects to the Binance API and executes trades based on a neural network and multiple technical indicators (RSI, MACD, EMA, SMA, breakout/breakdown signals).
 
-The bot has been tested in both Testnet and Mainnet environments and supports real-time execution with live market data through Binance WebSocket streams.
+The bot has been tested in both Testnet and Mainnet environments and supports real-time execution with live market data through Binance WebSocket streams and logs all trades in CSV format.
 
-🚀 Features
+---
 
-✅ Binance API Integration – Secure connection with Binance Testnet & Mainnet.
+## 🚀 Features
 
-✅ Automated Trading – Executes buy/sell orders based on AI-driven signals.
+- ✅ **Binance API Integration** – Works with Binance Testnet & Mainnet.
+- ✅ **Automated Trading** – Executes buy/sell orders based on neural network predictions + indicators.
+- ✅ **Multi-Indicator Strategy** – RSI, EMA, SMA, MACD, breakout/breakdown logic.
+- ✅ **Neural Network Model** – Deep Q-Learning agent with Dense layers.
+- ✅ **Trade Logging** – All trades saved in CSV with timestamp, order ID, and fee.
+- ✅ **Experience Replay** – Saves and reloads model + past experiences (pickle + TensorFlow checkpoint).
 
-✅ Multi-Strategy Support – Uses indicators such as RSI, EMA, SMA, MACD, and breakout strategies.
-
-✅ Deep Learning Model – LSTM + Attention mechanism for predictive decision-making.
-
-✅ Scalping / HFT Mode – Capable of executing multiple trades per minute with small profit margins.
-
-✅ Risk Management – Custom stop-loss, dynamic position sizing (in progress).
-
-✅ Logging & Analytics – Trade logs, balance tracking, and performance evaluation.
+---
 
 🛠️ Installation
 Requirements
@@ -52,9 +49,8 @@ Change your keys in this code part
 # For Testnet
 ```Python
 # Binance Testnet API keys
-api_key = 'XXXXX'
-api_secret = 'XXXXX'
-
+api_key = "YOUR_TESTNET_KEY"
+api_secret = "YOUR_TESTNET_SECRET"
 client = Client(api_key, api_secret, testnet=True)
 ```
 
@@ -67,9 +63,8 @@ Do NOT enable withdrawals.
 # For Mainnet
 ```Python
 # Binance Mainnet API keys
-api_key = 'XXXXX'
-api_secret = 'XXXXX'
-
+api_key = "YOUR_MAINNET_KEY"
+api_secret = "YOUR_MAINNET_SECRET"
 client = Client(api_key, api_secret)
 ```
 
