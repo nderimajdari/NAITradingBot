@@ -108,17 +108,17 @@ Worst trade: -0.040876 USDT
 
 ## ⚠️ Disclaimer
 
-This project is provided for educational and research purposes only.
-Trading cryptocurrencies carries a high level of risk and may not be suitable for all investors.
-The authors and contributors of this repository do not provide financial advice and are not responsible for any financial losses, damages, or consequences resulting from the use of this software.
+This project is provided **for educational and research purposes only.**
+Trading cryptocurrencies carries a **high level of risk** and may not be suitable for all investors.
+The authors and contributors of this repository **do not provide financial advice** and are **not responsible** for any financial losses, damages, or consequences resulting from the use of this software.
 
-- Always test on Binance Testnet before using on Mainnet.
+- Always test on Binance **Testnet** before using on Mainnet.
 
 - Use your own risk management strategies.
 
 - Past performance does not guarantee future results.
 
-Use at your own risk.
+**Use at your own risk.**
 
 
 ## Authors
