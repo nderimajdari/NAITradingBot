@@ -113,8 +113,11 @@ Trading cryptocurrencies carries a high level of risk and may not be suitable fo
 The authors and contributors of this repository do not provide financial advice and are not responsible for any financial losses, damages, or consequences resulting from the use of this software.
 
 Always test on Binance Testnet before using on Mainnet.
+
 Use your own risk management strategies.
+
 Past performance does not guarantee future results.
+
 Use at your own risk.
 
 
