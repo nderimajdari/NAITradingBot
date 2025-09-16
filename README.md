@@ -120,6 +120,8 @@ The authors and contributors of this repository **do not provide financial advic
 
 **Use at your own risk.**
 
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
 
 ## Authors
 
