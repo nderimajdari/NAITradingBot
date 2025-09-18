@@ -4,7 +4,6 @@
 
 The bot has been tested in both Testnet and Mainnet environments and supports real-time execution with live market data through Binance WebSocket streams and logs all trades in CSV format.
 
----
 
 ## 🚀 Features
 
@@ -15,9 +14,8 @@ The bot has been tested in both Testnet and Mainnet environments and supports re
 - ✅ **Trade Logging** – All trades saved in CSV with timestamp, order ID, and fee.
 - ✅ **Experience Replay** – Saves and reloads model + past experiences (pickle + TensorFlow checkpoint).
 
----
 
-🛠️ Installation
+## 🛠️ Installation
 Requirements
 
 Python 3.9+
@@ -119,6 +117,8 @@ The authors and contributors of this repository **do not provide financial advic
 - Past performance does not guarantee future results.
 
 **Use at your own risk.**
+
+## LICENSE
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
