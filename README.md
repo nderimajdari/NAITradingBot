@@ -40,11 +40,11 @@ pip install python-binance==1.0.19
 pip install websockets==12.0
 ```
 
-⚙️ Configuration
+## ⚙️ Configuration API Key 
 
 Change your keys in this code part 
 
-# For Testnet
+### For Testnet
 ```Python
 # Binance Testnet API keys
 api_key = "YOUR_TESTNET_KEY"
@@ -58,7 +58,7 @@ Enable Spot & Margin Trading.
 
 Do NOT enable withdrawals. 
 
-# For Mainnet
+### For Mainnet
 ```Python
 # Binance Mainnet API keys
 api_key = "YOUR_MAINNET_KEY"
