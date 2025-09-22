@@ -118,9 +118,12 @@ The authors and contributors of this repository **do not provide financial advic
 
 **Use at your own risk.**
 
-## LICENSE
+## ⚖️ License  
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+This work is released under the **MIT License**.  
+Users are permitted to use, copy, modify, and distribute the software for academic and research purposes, provided that appropriate credit is given to the original author(s).  
+
+For full details, please refer to the [LICENSE](LICENSE) file included in this repository.
 
 
 ## Authors
