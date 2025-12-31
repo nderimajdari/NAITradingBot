@@ -5,6 +5,15 @@
 The bot has been tested in both Testnet and Mainnet environments and supports real-time execution with live market data through Binance WebSocket streams and logs all trades in CSV format.
 
 
+## ⚠️ Code Availability Notice
+
+The source code for NAITradingBot is currently not publicly available as it is part of ongoing scientific and academic research (thesis / paper preparation).
+
+The code will be released after the completion and publication of the related scientific work.
+
+For academic collaboration or review purposes, access may be granted upon formal request.
+
+
 ## 🚀 Features
 
 - ✅ **Binance API Integration** – Works with Binance Testnet & Mainnet.
